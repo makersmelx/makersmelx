@@ -3,4 +3,9 @@
 📚&nbsp;&nbsp;I study electrical and computer engineering [@sjtu](https://github.com/sjtu) [@SJTU-UMJI](https://github.com/SJTU-UMJI). \
 📖&nbsp;&nbsp;I will study Information Science at [@UMich](https://github.com/umich) [@umsi](https://github.com/msi). \
 💻&nbsp;&nbsp;I was a software engineer intern at [@Apple](https://github.com/apple). \
-📃&nbsp;&nbsp;You can find my resume [here](http://jiayao.me/Jiayao_Wu_Resume.pdf).
+📃&nbsp;&nbsp;You can find my resume [here](http://jiayao.me/Jiayao_Wu_Resume.pdf). 、
+
+<p align="left">
+<img alt="Diving-Fish's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=makersmelx&show_icons=true&include_all_commits=true">
+<img alt="Diving-Fish's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=makersmelx">
+</p>
