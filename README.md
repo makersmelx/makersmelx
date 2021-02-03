@@ -6,6 +6,7 @@
 📃&nbsp;&nbsp;You can find my resume [here](http://jiayao.me/Jiayao_Wu_Resume.pdf). 、
 
 <p align="left">
-<img alt="Diving-Fish's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=makersmelx&show_icons=true&include_all_commits=true">
-<img alt="Diving-Fish's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=makersmelx">
+<img alt="makersmelx's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=makersmelx&show_icons=true&include_all_commits=true">
+<img alt="makersmelx's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=makersmelx">
+<img alt="makersmelx's wakatime stats" height='230' src="https://github-readme-stats.vercel.app/api/wakatime?username=makersmelx">
 </p>
