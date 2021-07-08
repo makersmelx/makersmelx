@@ -8,14 +8,11 @@
 <p align="left">
 <img alt="makersmelx's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=makersmelx&show_icons=true&include_all_commits=true">
 <img alt="makersmelx's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=makersmelx">
+  
+
 </p>
-<details>
-  <summary>Wakatime stats over the last year</summary>
-  <br><br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=makersmelx&layout=compact&range=last_7_days" />
-  </a>
-</details>
+**Weekly Development Breakdown**
+[!makersmelx's weekly wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=makersmelx&layout=compact&range=last_7_days)
 <details>
   <summary>Wakatime stats over the last year</summary>
   <br><br>
