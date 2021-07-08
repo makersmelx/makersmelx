@@ -10,9 +10,11 @@
 <img alt="makersmelx's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=makersmelx">
 </p>
 <details>
-  <summary>Wakatime stats over the last year</summary>
+  <summary>Anuual Wakatime stats</summary>
   <br><br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=makersmelx&layout=compact" />
   </a>
 </details>
+
+[![makersmelx's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=makersmelx)](https://github.com/anuraghazra/github-readme-stats)
