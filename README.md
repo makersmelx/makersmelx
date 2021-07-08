@@ -12,7 +12,9 @@
 
 </p>
 **Weekly Development Breakdown**
+
 [!makersmelx's weekly wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=makersmelx&layout=compact&range=last_7_days)
+
 <details>
   <summary>Wakatime stats over the last year</summary>
   <br><br>
