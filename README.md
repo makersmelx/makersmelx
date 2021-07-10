@@ -17,6 +17,7 @@
 
 ![makersmelx's weekly wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=makersmelx&layout=compact&range=last_7_days)
 
+***
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/makersmelx/count.svg" />
