@@ -7,9 +7,14 @@
 
 **Github Repo Stats**
 
-<p align="center">
+<p align="left">
 <img alt="makersmelx's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=makersmelx&show_icons=true&include_all_commits=true">
 <img alt="makersmelx's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=makersmelx">
+</p>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/BoYanZh/count.svg" />
 </p>
 
 **Weekly Development Breakdown**
