@@ -15,11 +15,3 @@
 **Weekly Development Breakdown**
 
 ![makersmelx's weekly wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=makersmelx&layout=compact&range=last_7_days)
-
-<details>
-  <summary><strong>Wakatime stats over the last year</strong></summary>
-  <br><br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=makersmelx&layout=compact" />
-  </a>
-</details>
