@@ -12,11 +12,12 @@
 <img alt="makersmelx's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=makersmelx">
 </p>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/BoYanZh/count.svg" />
-</p>
 
 **Weekly Development Breakdown**
 
 ![makersmelx's weekly wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=makersmelx&layout=compact&range=last_7_days)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/makersmelx/count.svg" />
+</p>
