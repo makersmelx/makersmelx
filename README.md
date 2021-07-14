@@ -14,9 +14,6 @@
   <img align="center" alt="makersmelx's github stats" height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=makersmelx&layout=compact">
 </a>
 
-
-**Weekly Development Breakdown**
-
 <details>
   <summary><strong>Weekily Development Breakdown</strong></summary>
   <br><br>
