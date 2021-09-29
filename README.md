@@ -1,7 +1,7 @@
 ## Hi, I am Mike Wu
 
 📖&nbsp;&nbsp;I study Information Science at [@UMich](https://github.com/umich) [@umsi](https://github.com/msi). \
-📚&nbsp;&nbsp;I earned my bachelor degree in Electrical & Computer engineering in 2021 [@sjtu](https://github.com/sjtu) [@SJTU-UMJI](https://github.com/SJTU-UMJI). \
+📚&nbsp;&nbsp;I earned my bachelor degree in Electrical & Computer Engineering in 2021 [@sjtu](https://github.com/sjtu) [@SJTU-UMJI](https://github.com/SJTU-UMJI). \
 💻&nbsp;&nbsp;I was a software engineer intern at [@Apple](https://github.com/apple). \
 📃&nbsp;&nbsp;You can find my resume [here](https://jiayao.me/Jiayao%20Wu%20Resume.pdf).
 
